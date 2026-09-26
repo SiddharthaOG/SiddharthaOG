@@ -1,5 +1,7 @@
 <div align="center">
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Siddhartha+Tripathy;Full-Stack+Dev+%26+Aspiring+AIML+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+  
 </div>
 
 ## About Me
