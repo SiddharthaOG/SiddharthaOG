@@ -54,7 +54,9 @@
 
 **A platform for students to share academic resources.** Features advanced search using Django ORM `Q` objects, user authentication, file uploads, and a clean, responsive UI.
 
-[![Dynamic AI Planner and Resource Locator](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=AI_Planner&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/AI_Planner)
+[![AI-Planner](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=AI-Planner&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/AI-Planner)
+
+**A dynamic AI-powered study planner and resource recommendation system that analyzes student confidence, diagnostic performance, learning trends, and available study time to generate personalized learning paths.** 
   
 </div>
 
