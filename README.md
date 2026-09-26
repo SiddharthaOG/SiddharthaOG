@@ -1,2 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=3500&pause=1000&color=737879&width=435&lines=Hi+There!;I'm+Siddhartha+Tripathy;Full-Stack+Developer+%26+Aspiring+AIML+Engineer+;Always+Learning+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Siddhartha+Tripathy;Full-Stack+Dev+%26+Aspiring+AIML+Enthusiast;Always+Learning)](https://git.io/typing-svg)
