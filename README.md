@@ -52,7 +52,7 @@
 ### 🚀 Featured Project
 <div align="center">
   
-[![Campus Resource Hub][![Campus Resource Hub](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=campus_hub&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/campus_hub)
+[![Campus Resource Hub](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=campus_hub&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/campus_hub)
 
 **A platform for students to share academic resources.** Features advanced search using Django ORM `Q` objects, user authentication, file uploads, and a clean, responsive UI.
 
