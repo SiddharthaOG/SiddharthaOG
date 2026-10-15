@@ -52,15 +52,16 @@
 ### 🚀 Featured Project
 <div align="center">
   
-[![Campus Resource Hub](https://vercel.app)](https://github.com/SiddharthaOG/campus_hub)
+[![Campus Resource Hub](https://vercel.app)](https://github.com)
 
 **A platform for students to share academic resources.** Features advanced search using Django ORM `Q` objects, user authentication, file uploads, and a clean, responsive UI.
 
-[![AI-Planner](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=AI-Planner&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/AI-Planner)
+[![AI-Planner](https://vercel.app)](https://github.com)
 
 **A dynamic AI-powered study planner and resource recommendation system that analyzes student confidence, diagnostic performance, learning trends, and available study time to generate personalized learning paths.** 
   
 </div>
+
 
 
 ---
