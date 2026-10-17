@@ -5,13 +5,11 @@
 </div>
 
 ---
-
 ### 🧑‍💻 About Me
 - 🎓 I'm a student and aspiring **Full-Stack Developer & AI/ML Engineer**.
 - 🐍 My core stack is **Python** and **Django**.
 - 🧠 I'm diving into **AI/Machine Learning** (NumPy, Pandas) and aspire to master **PyTorch** and **Scikit-Learn**.
-- 🌐 Currently leveling up my frontend skills with **JavaScript, HTML, and CSS**.
-
+- 🌐 I've learned the fundamentals of **HTML5, CSS3, and JavaScript**, and I'm now exploring modern frameworks like **React, Next.js, and TypeScript**.
 ---
 
 ### 🛠️ Tech Stack
