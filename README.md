@@ -5,11 +5,13 @@
 </div>
 
 ---
+
 ### 🧑‍💻 About Me
 - 🎓 I'm a student and aspiring **Full-Stack Developer & AI/ML Engineer**.
 - 🐍 My core stack is **Python** and **Django**.
 - 🧠 I'm diving into **AI/Machine Learning** (NumPy, Pandas) and aspire to master **PyTorch** and **Scikit-Learn**.
 - 🌐 I've learned the fundamentals of **HTML5, CSS3, and JavaScript**, and I'm now exploring modern frameworks like **React, Next.js, and TypeScript**.
+
 ---
 
 ### 🛠️ Tech Stack
@@ -24,7 +26,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
-   <h4>Frontend</h4>
+  <h4>Frontend</h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -54,25 +56,40 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 <div align="center">
   
+[![Smart Trash Map](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=smart-trash-map&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/smart-trash-map)
+
+**A map-based platform for reporting and viewing trash locations, built with React, Vite, and Supabase.**
+
+[![Kshijit](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=Kshijit&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/Kshijit)
+
+**A recent project in my portfolio.** <!-- Replace this description with a short summary of what Kshijit does. -->
+
 [![Campus Resource Hub](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=campus_hub&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/campus_hub)
 
 **A platform for students to share academic resources.** Features advanced search using Django ORM `Q` objects, user authentication, file uploads, and a clean, responsive UI.
 
-[![AI-Planner](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=AI-Planner&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/AI-Planner)
-
-**A dynamic AI-powered study planner and resource recommendation system that analyzes student confidence, diagnostic performance, learning trends, and available study time to generate personalized learning paths.** 
-  
 </div>
 
+---
 
+### 🌱 Earlier Projects
+These were some of my first projects, where I explored ideas and learned by building.
+
+<div align="center">
+
+[![AI-Planner](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=AI-Planner&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/AI-Planner)
+
+**A dynamic AI-powered study planner and resource recommendation system that analyzes student confidence, diagnostic performance, learning trends, and available study time to generate personalized learning paths.**
+
+</div>
 
 ---
 
 <div align="center">
   <h3>🔗 Connect with me</h3>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/SiddharthaOG"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
