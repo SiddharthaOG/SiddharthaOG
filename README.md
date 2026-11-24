@@ -39,6 +39,8 @@
   <h4>AI / Machine Learning</h4>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+  <h4>AI / Machine Learning (Learning / Interested)</h4>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
@@ -79,6 +81,7 @@
 
 [![Kshijit](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=Kshijit&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/Kshijit)
 
+**A research prototype for flood extent estimation — combines terrain DEM data, river geometry, and a threshold-connectivity model to map inundation zones for infrastructure planning.** Built with Python, Rasterio, and Copernicus DEM.
 
 [![Campus Resource Hub](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthaOG&repo=campus_hub&theme=blueberry&hide_border=true)](https://github.com/SiddharthaOG/campus_hub)
 
